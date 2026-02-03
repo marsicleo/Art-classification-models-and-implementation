@@ -1,0 +1,1 @@
+Project in which few different classifiction models are trained to see which can get best results classifying images from The Tate Collection. Best model is added into a separate app for live classification of art.
